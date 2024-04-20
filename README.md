@@ -1,4 +1,4 @@
-# api-productos
+# api-productos #ASPNETCore #WebAPI #SQLServer #CRUD
 API CRUD
 Descripcion:
 API CRUD desarrollada con ASP.NET Core Web API que permite realizar operaciones básicas de Crear (Create), Leer (Read), Actualizar (Update) y Eliminar (Delete) en una base de datos SQL Server. Proporciona endpoints para realizar las siguientes operaciones:
